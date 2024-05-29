@@ -9,7 +9,7 @@
 
 El repositorio cuenta con dos archivos:
 * `desafio_kaggle.ipynb`: Jupyter Notebook que contiene la parte 2 de la tarea. Tiene toda la experimentación del dataset entregado en Kaggle.
-* `.ipynb`
+* `investigacion.ipynb`: Jupyter Notebook que contiene el proceso para realizar la experimentación de la parte 1.
 
 
 ## Resultados Kaggle
